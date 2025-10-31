@@ -1,0 +1,11 @@
+<QuizML name ="Sample Quiz">
+    <Description> This is a sample quiz to demonstrate the QuizML format.</Description>
+    <Question type ="multichoice" points = "10">
+        <QuestionText answer ='Paris'>What is the capital of France </QuestionText>
+        <Answer name = '1'> "Paris" </Answer>
+        <Answer name = '2'> "Rome" </Answer>
+        <Answer name = '3'> "Madrid" </Answer>
+        <Answer name = '4'> "Berlin" </Answer>
+    </Question>
+</QuizML
+
