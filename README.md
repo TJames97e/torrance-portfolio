@@ -7,7 +7,7 @@
 
 ## 🔭 What I’m Working On
 - Developing my skills in **Python, Data Science, and AI Engineering**  
-- Building projects to sharpen **full-stack and software engineering** skills  
+- Building projects to sharpen **software engineering** skills  
 
 ---
 
