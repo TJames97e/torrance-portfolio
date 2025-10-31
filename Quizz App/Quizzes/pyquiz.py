@@ -11,7 +11,7 @@ class QuizApp:
     def greeting(self):
         print("-----------------------------")
         print("~~~~~ Welcome to PyQuiz ~~~~~")
-        print("-----------------------------")
+        print("_____________________________")
         print()
 
     def menu_header(self):
